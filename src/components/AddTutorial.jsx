@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-const AddTutorial = () => {
+const AddTutorial = ({tutorials, setTutorials}) => {
   const [title, setTitle] = useState("")
   const [description, setDescription] = useState("")
 
