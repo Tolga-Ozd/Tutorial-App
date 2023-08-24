@@ -1,7 +1,8 @@
 import { FaEdit } from "react-icons/fa"
 import { AiFillDelete } from "react-icons/ai"
+import axios from "axios"
 
-const TutorialList = ({tutorials, setTutorials}) => {
+const TutorialList = ({tutorials, setTutorials, getTutorials}) => {
   // const tutorials = [
   //   {
   //     id: 1,
@@ -14,6 +15,16 @@ const TutorialList = ({tutorials, setTutorials}) => {
   //     description: "JS library for UI design",
   //   },
   // ]
+
+  const handleDelete = async(id) =>{
+    const BASE_URL = "https://tutorial-api.fullstack.clarusway.com/tutorials";
+    try {
+      await axios.delete(`${BASE_URL}/ ${id} ` )
+    } catch (error) {
+      console.log(error)
+    }
+    getTutorials()
+  }
 
   return (
     <div className="container mt-4">
@@ -45,7 +56,8 @@ const TutorialList = ({tutorials, setTutorials}) => {
                   <AiFillDelete
                     size={22}
                     type="button"
-                    className="text-danger "
+                    className="text-danger"
+                    onClick={()=>handleDelete(id)}
                   />
                 </td>
               </tr>
