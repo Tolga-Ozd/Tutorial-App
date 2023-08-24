@@ -40,8 +40,7 @@ const TutorialList = ({tutorials, setTutorials, getTutorials}) => {
           </tr>
         </thead>
         <tbody>
-          {tutorials?.map((item) => {
-            const { id, title, description } = item
+          {tutorials?.map((item) => {const { id, title, description } = item
             return (
               <tr key={id}>
                 <th>{id}</th>

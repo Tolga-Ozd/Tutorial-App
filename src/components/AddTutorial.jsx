@@ -7,7 +7,7 @@ const AddTutorial = ({tutorials, setTutorials ,getTutorials}) => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    const newTutor = {title:title ,description:description} 
+    const newTutor = {title:title , description:description} 
     setTitle("")
     setDescription("")
     console.log(newTutor)
@@ -23,7 +23,6 @@ const AddTutorial = ({tutorials, setTutorials ,getTutorials}) => {
     }
     getTutorials()
   }
-
 
   return (
     <div className="container text-center mt-4">
