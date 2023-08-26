@@ -27,7 +27,7 @@ const TutorialList = ({tutorials, setTutorials, getTutorials}) => {
             <th scope="col">Title</th>
             <th scope="col">Description</th>
             <th scope="col" className="text-center">
-              Edit
+              Edit/Delete
             </th>
           </tr>
         </thead>
