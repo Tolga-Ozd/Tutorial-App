@@ -1,6 +1,29 @@
-# API Base URLs
+## Welcome to My Project! 👋
 
-## https://tutorial-api.fullstack.clarusway.com/
+Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
+
+## About Me
+I can quickly grasp new technologies and concepts to develop innovative and creative solutions to problems. I am always ready to learn about various technologies, tools and libraries.
+
+## Check Out My Other Projects 
+If you enjoyed exploring this project, I invite you to check out my other projects as well. I am passionate about programming and have worked on a variety of exciting projects.
+
+##	Redux Toolkit Project: 
+## All the project=> https://reduxtoolkit-proje.vercel.app/
+In this project; <br>
+- HTML, <br>
+- CSS Frameworks, <br>
+- Redux,
+- Api
+- Data Fetched
+- Axios
+- useDispatch  <br>
+- Component structure,  <br>
+- useState and <br>
+- React Component <br>
+
+
+## All Project : https://tutorial-app-orcin.vercel.app/
 
 ### API ENDPOINTS
 
@@ -12,6 +35,3 @@
 - DELETE `tutorials/:id/` remove Tutorial by id
 - DELETE `tutorials/` remove all Tutorials
 
-# Deployed Frontend
-
-## https://tutorial.fullstack.clarusway.com/
