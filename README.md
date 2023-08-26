@@ -22,9 +22,6 @@ In this project; <br>
 - useState and <br>
 - React Component <br>
 
-
-## All Project : https://tutorial-app-orcin.vercel.app/
-
 ### API ENDPOINTS
 
 - GET `tutorials/` get all Tutorials
