@@ -9,7 +9,7 @@ I can quickly grasp new technologies and concepts to develop innovative and crea
 If you enjoyed exploring this project, I invite you to check out my other projects as well. I am passionate about programming and have worked on a variety of exciting projects.
 
 ##	Redux Toolkit Project: 
-## All the project=> https://reduxtoolkit-proje.vercel.app/
+## All the project=> https://tutorial-app-orcin.vercel.app/
 In this project; <br>
 - HTML, <br>
 - CSS Frameworks, <br>
