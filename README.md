@@ -1,7 +1,7 @@
 ## Welcome to My Project!  👋
-
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
-
+## All the project=> https://tutorial-app-orcin.vercel.app/
+![Tutorial App](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/9c7a00f1-3324-4f2c-be4b-96678690a9e1)
 ## About Me
 I can quickly grasp new technologies and concepts to develop innovative and creative solutions to problems. I am always ready to learn about various technologies, tools and libraries.
 
@@ -9,7 +9,7 @@ I can quickly grasp new technologies and concepts to develop innovative and crea
 If you enjoyed exploring this project, I invite you to check out my other projects as well. I am passionate about programming and have worked on a variety of exciting projects.
 
 ##	Tutorial App: In this project, the data was drawn from the API and written as a list, and the data was sent to the API again.
-## All the project=> https://tutorial-app-orcin.vercel.app/
+## tutorial-app
 In this project; <br>
 - HTML, <br>
 - CSS Frameworks, <br>
